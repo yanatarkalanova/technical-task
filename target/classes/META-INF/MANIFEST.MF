@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Wallet Service Exercise
+Implementation-Version: 0.0.2
+Built-By: YMalevska
+Implementation-Vendor-Id: com.playtomic.tests
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://spring.io/projects/spring-boot/exercise-wa
+ llet
+Created-By: Maven Integration for Eclipse
+
